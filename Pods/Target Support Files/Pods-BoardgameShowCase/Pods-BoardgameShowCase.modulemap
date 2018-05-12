@@ -1,0 +1,6 @@
+framework module Pods_BoardgameShowCase {
+  umbrella header "Pods-BoardgameShowCase-umbrella.h"
+
+  export *
+  module * { export * }
+}
